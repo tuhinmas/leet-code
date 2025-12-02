@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	i := 3749
+	i := 49
 	fmt.Println(intToRoman(i))
 }
 
